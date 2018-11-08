@@ -3,17 +3,23 @@
 
 This is a starter project for singleSPA with AngularJS and react. Enjoy!
 
+SingleSPA is an awesome library that allows multiple UI frameworks to co-exist in one web application (Like a UI framework that hosts other UI frameowrks). I find it very useful for ***migration*** from one UI framework to another because it allows you to migrate one page or section at a time.
+
 # How to Run
 
-cd SingleSPA_starter_project
+1. cd SingleSPA_starter_project
 
-npm install
+2. npm install
 
-npm start
+3. npm start
 
 # Todo
 
-Experiment with webpack.
+ - Experiment with webpack.
+
+ - Add unit testing
+
+ - Performance Analysis
 
 # Resources
 
