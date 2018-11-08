@@ -3,13 +3,21 @@
 
 This is a starter project for singleSPA with AngularJS and react. Enjoy!
 
-Finished the tutorial: https://single-spa.js.org/docs/starting-from-scratch.html
+# How to Run
 
-## Todo
+cd SingleSPA_starter_project
+
+npm install
+
+npm start
+
+# Todo
 
 Experiment with webpack.
 
-## Resources
+# Resources
+
+SingleSPA walkthrough: https://single-spa.js.org/docs/starting-from-scratch.html
 
 SingleSPA: https://single-spa.js.org/
 
